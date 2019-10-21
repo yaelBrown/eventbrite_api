@@ -1,7 +1,7 @@
 'use strict';
 
 // Key would normally be stored in a key.js file and added to .gitignore
-const key = "T6CK2RF5ND5NQ5SDLJLO"; 
+const key = ""; 
 
 let data;
 let musicData;
